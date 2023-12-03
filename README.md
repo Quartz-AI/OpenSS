@@ -1,7 +1,7 @@
 # OpenSS
 a gorrila tag mod that features..
 -
-Join Random
+`Join Random
 -
 Disconnect
 -
@@ -11,6 +11,6 @@ Invis Platforms
 -
 Crash All (NW?)
 -
-Tag All
+Tag All`
 -
 And is completely opensource, feel free to make recommendations.
